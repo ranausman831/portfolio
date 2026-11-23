@@ -1,0 +1,72 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 4604 >>
+stream
+BT /F2 22 Tf 0.06 0.06 0.08 rg 1 0 0 1 48 755 Tm (MUHAMMAD USMAN) Tj ET
+BT /F2 12 Tf 0.88 0.31 0.09 rg 1 0 0 1 48 737 Tm (Agentic AI Engineer) Tj ET
+BT /F1 9.5 Tf 0.28 0.28 0.32 rg 1 0 0 1 48 722 Tm (Faisalabad, Pakistan  |  mbox9016@gmail.com  |  github.com/ranausman831) Tj ET
+BT /F1 9.5 Tf 0.28 0.28 0.32 rg 1 0 0 1 48 709 Tm (LinkedIn: https://www.linkedin.com/in/muhammad-usman-74431034b/) Tj ET
+0.85 0.85 0.88 RG 0.7 w 48 699 m 564 699 l S
+BT /F2 10.5 Tf 0.88 0.31 0.09 rg 1 0 0 1 48 679 Tm (PROFESSIONAL SUMMARY) Tj ET
+BT /F1 9.5 Tf 0.16 0.16 0.2 rg 1 0 0 1 48 664 Tm (Computer Science undergraduate \(BS CS, 2022 - 2026\) focused on designing and building intelligent) Tj ET
+BT /F1 9.5 Tf 0.16 0.16 0.2 rg 1 0 0 1 48 651 Tm (AI-powered applications, autonomous multi-step AI agents, Retrieval-Augmented Generation \(RAG\)) Tj ET
+BT /F1 9.5 Tf 0.16 0.16 0.2 rg 1 0 0 1 48 638 Tm (systems, Model Context Protocol \(MCP\) tools, and end-to-end automation workflows solving real-world problems.) Tj ET
+BT /F2 10.5 Tf 0.88 0.31 0.09 rg 1 0 0 1 48 617 Tm (TECHNICAL SKILLS) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 602 Tm (AI & Agentic AI:) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.24 rg 1 0 0 1 165 602 Tm (Artificial Intelligence, LangChain, LangGraph, AI Agents, Multi-Agent Systems, RAG, MCP) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 588 Tm (Backend Development:) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.24 rg 1 0 0 1 165 588 Tm (Python, FastAPI, Flask, REST APIs) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 574 Tm (AI Integration:) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.24 rg 1 0 0 1 165 574 Tm (Google Gemini API, LLM Integration, Prompt Engineering) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 560 Tm (Automation:) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.24 rg 1 0 0 1 165 560 Tm (n8n, AI Workflow Automation, Human-in-the-Loop Workflows) Tj ET
+BT /F2 10.5 Tf 0.88 0.31 0.09 rg 1 0 0 1 48 538 Tm (SELECTED AI & AGENTIC AI PROJECTS) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 523 Tm (AI Resume Reviewer \(Python, Flask, LangChain, Gemini\) - github.com/ranausman831/AI_RESUME_REVIEWER) Tj ET
+BT /F1 9 Tf 0.24 0.24 0.28 rg 1 0 0 1 56 511 Tm (Uploads PDF or DOCX resumes and generates structured AI feedback on skills, experience, and improvements.) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 495 Tm (StudyMate AI \(Python, LangChain, Gemini\) - github.com/ranausman831/StudyMate-AI) Tj ET
+BT /F1 9 Tf 0.24 0.24 0.28 rg 1 0 0 1 56 483 Tm (Analyzes TXT, PDF, CSV, directories, and websites to produce summaries, key points, and study questions.) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 467 Tm (Student Productivity MCP & Remote MCP Server \(Python, MCP\) - github.com/ranausman831/student_productivity_mcp) Tj ET
+BT /F1 9 Tf 0.24 0.24 0.28 rg 1 0 0 1 56 455 Tm (Model Context Protocol \(MCP\) server and productivity integrations for standardized AI tool access.) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 439 Tm (AI LinkedIn Post Generator \(n8n\) - github.com/ranausman831/ai-linkedin-post-generator) Tj ET
+BT /F1 9 Tf 0.24 0.24 0.28 rg 1 0 0 1 56 427 Tm (Agentic workflow with Human-in-the-Loop approval and automated content regeneration built in n8n.) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 411 Tm (AI Email Automation \(n8n, OpenAI, Gmail\) - github.com/ranausman831/ai-email-automation-n8n) Tj ET
+BT /F1 9 Tf 0.24 0.24 0.28 rg 1 0 0 1 56 399 Tm (Automated email workflow combining n8n orchestration, LLM drafting, and Gmail triggers.) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 383 Tm (AI Study Assistant \(Python, LangChain, Google Gemini\) - github.com/ranausman831/AI-STUDY-ASSIST) Tj ET
+BT /F1 9 Tf 0.24 0.24 0.28 rg 1 0 0 1 56 371 Tm (Generates concise study notes, key takeaways, and practice questions from any given topic.) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 355 Tm (AI Career Recommendation System \(Python\) - github.com/ranausman831/AI-Career-Recommendation-System) Tj ET
+BT /F1 9 Tf 0.24 0.24 0.28 rg 1 0 0 1 56 343 Tm (Suggests job roles and personalized learning paths aligned with interns skills and interests.) Tj ET
+BT /F2 10.5 Tf 0.88 0.31 0.09 rg 1 0 0 1 48 321 Tm (EDUCATION & DEVELOPMENT JOURNEY) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 306 Tm (BS Computer Science \(2022 - 2026\)  -  Government College University Faisalabad) Tj ET
+BT /F1 9 Tf 0.24 0.24 0.28 rg 1 0 0 1 56 293 Tm (Core coursework in software architecture, algorithms, AI/ML, and applied autonomous agent engineering.) Tj ET
+BT /F2 9.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 48 277 Tm (FSc Non-Medical \(2019 - 2021\)  -  Aspire College   |   Matriculation \(2019\)) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5052
+%%EOF
